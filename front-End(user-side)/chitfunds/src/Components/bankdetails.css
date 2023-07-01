@@ -1,0 +1,18 @@
+.detailsDiv{
+    display: flex;
+}
+.firstDiv{
+    margin-left: 670px;
+}
+.secondDiv{
+    margin-left: 50px;
+}
+.margintop{
+    margin-top: 20px;
+}
+.inputTag{
+    padding: 5px 40px 5px 10px;
+    color: #ef233c;
+}
+
+
