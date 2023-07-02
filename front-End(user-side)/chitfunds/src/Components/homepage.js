@@ -6,7 +6,6 @@ function HomePage(){
             <div>
                 <nav>
 
-
                     <div className='navBar'>
                         <div className='logodiv'>
                             <img  className="logo" src="../resorses/logo.avif" alt="error"/>
@@ -42,7 +41,10 @@ function HomePage(){
                 </div>
 
             </div>
+
         </div>
+
+
     )
 }
 export default HomePage 
