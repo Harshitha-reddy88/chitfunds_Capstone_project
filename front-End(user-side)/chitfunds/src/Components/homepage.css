@@ -1,0 +1,160 @@
+.logo{
+    width:70px;
+    border-radius: 300px;
+}
+.navBar{
+    display: flex;
+    background-color: #dad7cd;
+    border-radius:20px;
+}
+.logodiv{
+    margin-left: 50px;
+}
+.chiti{
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.signup{
+    margin-top: 5px;
+    display: flex;
+    margin-left:200px;
+}
+.signuplogo{
+    width: 40px;
+    border-radius: 800px;
+}
+.searchdiv{
+    margin-top: 25px;
+    margin-left: 600px;
+}
+.search{
+    padding: 6px 30px 6px 30px;
+    border-radius:100px;
+    border: solid 2px white;
+}
+.search:hover{
+    border: 2px solid #dad7cd;
+}
+.chitfundimg{
+    width: 1500px;
+    height: 450px;
+    border-radius:10px;
+}
+.bannerImg{
+    width:1500px;
+    height: 500px;
+}
+.piggyBank{
+    width: 350px;
+    height: 300px;
+}
+.handsText{
+    text-align: justify;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.verticalLine{
+    border-left: 6px solid #ddb892;
+    height: 530px;
+    margin-left: 80px;
+}
+.topText{
+    margin-top: -400px;
+    line-height: 80px;
+    font-size: 30px;
+}
+.marquee{
+    opacity: 0.8;
+    color:gray;
+}
+.button{
+    padding: 10px 60px 10px 60px;
+    background-color: #e6ccb2;
+    margin-left: 980px;
+    margin-top: 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.blink {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      color:#e3170a;
+    }
+  }
+  .bankText{
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 45px;
+  }
+  .bankDiv{
+    display: flex;
+    margin-top: 300px;
+    background-color: #ede0d4;
+  }
+  .hands{
+    width: 350px;
+    height: 300px;
+  }
+  .peopleMoney{
+    width: 350px;
+    height: 300px;
+  }
+  .peopleText{
+    text-align: justify;
+  }
+  .handsDiv{
+    margin-left: 175px;
+    margin-top: 70px;
+  }
+  /* .peopleDiv{
+    margin-left: 420px;
+    margin-top: 50px;
+  } */
+  .Div{
+    margin-left:80px;
+  }
+  .peopleDiv{
+    margin-left: 80px;
+    margin-top: 73px;
+  }
+  .fillButton{
+    font-size: 20px;
+    padding: 8px 50px 8px 50px;
+    margin-bottom: 15px;
+    background-color:#7a6c5d ;
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+  }
+  .fillButton:hover{
+    font-size: 22px;
+  }
+  .aboutChit{
+    margin-top: 150px;
+  }
+  .auctionImg{
+    width: 130px;
+    height: 130px;
+    border-radius: 220px;
+  }
+  .arrowMark{
+    width: 100px;
+    height: 30px;
+    margin-top: 55px;
+  }
+  .auctionDiv{
+    display: flex;
+    margin-left: 150px;
+  }
+  .prosses{
+    margin-right: 1300px;
+  }
