@@ -141,4 +141,20 @@
   .aboutChit{
     margin-top: 150px;
   }
-  
+  .auctionImg{
+    width: 130px;
+    height: 130px;
+    border-radius: 220px;
+  }
+  .arrowMark{
+    width: 100px;
+    height: 30px;
+    margin-top: 55px;
+  }
+  .auctionDiv{
+    display: flex;
+    margin-left: 150px;
+  }
+  .prosses{
+    margin-right: 1300px;
+  }

@@ -56,13 +56,6 @@ function HomePage(){
             </div>
 
             <div>
-                <div></div>
-                <div>
-                    <img/>
-                </div>
-            </div>
-
-            <div>
                 <h2 className='aboutChit'>chit funds provide individuals with a unique financial tool to save, <br/>
                     invest, borrow, and achieve their financial goals.</h2>
             </div>
@@ -90,6 +83,45 @@ function HomePage(){
                 <div>
                     <img src="" alt="error"/>
                     <h5></h5>
+                </div>
+            </div>
+
+           <div className='prosses'>
+              <h2>Auction(Prosses)</h2>
+           </div>
+
+            <div className="auctionDiv">
+                <div>
+                    <img  className="auctionImg" src="https://uploads-ssl.webflow.com/61339d90305bd88987604b1e/6167f1997f00bac1df4f6691_what-do-you-need-to-do-before-an-auction.jpeg" alt="error" />
+                    <h3>Pre-Auction</h3>
+                </div>
+                <div>
+                    <img className="arrowMark"src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAACbCAMAAADC6XmEAAAAeFBMVEX///8AAABGRkYwMDAyMjK9vb309PTj4+NZWVn39/fr6+u2trZsbGzBwcHg4OAEBAQnJydycnITExPNzc0dHR2RkZGBgYGcnJympqYiIiJ4eHhCQkKsrKxKSkpfX1/Jyck7OzvX19d+fn6fn59UVFQQEBCKioplZWWw+oRaAAAEnklEQVR4nO2djVLqMBCFWVsFFUURf7kqKOr7v+GVihhKk2yazGyWnE/HkUHxeGapXXvYHQwOhuH984Souj6WFqKYsxf6ZXIuLUYrF2QyOpPWo5JdE79BOYYzbJtI9HIiLUodz/suEuGvTBg3XSZ+l+OptDBVvHW7SHQhrUwTc5uLNMbRkc2V1UX6QDlycbhIdI2jI4+Fy0WavErr08GX08XvcpQWqIIHj4s0vZGWqADL+aLJm7RGBfhdpBnK0YfvwNhwJ60yd845LtLVUlpn3pyxXCT6lBaaN+4zxj9ml9JKc+ae6SLRrbTUjLlku0g1ytEK30WUo527EBsXKMduXkNcJLqX1pspYS7SYigtOEtY7QvK0QOvfTE5QjnuwW1fTB6kRefHUQ8bn5FEacFvX1COdpa9XEQ5tnjsZyP9kxaeFdaEhI8VyvGPwPbFBDm9Laf9XURO748Xv1soRy/h7YvJCEmUhj7tiwliow3cqy82kNNb0699MUFOr3f7YjLG0XEwibeRkNPr3b6YFJ/Ti2hfDIqPjSZxkehJ+veQJap9MSg7pxfXvpiE5fTquqqqunn7ea+3N9YfNvc2nxpfVW9uVs397a+uNg9SG4/8e7Myb27vb6iNe82f/PtdVbWrz3jwzbfUVTIX6TGkHNP92IMjoBylpebMlB0blVaaN9xglLTOzKl55SgtM3tY5SgtMn84sVFpjRrwl6O0QhV4y1FaoBI8OT1peVqYO3N60ur08A4XU+AIRklLU4U1pyctTBdzSzlK69JGd05PWpU6OnN60qIU0lGO0pI0MtpLokgr0kk7pyetRymtnJ60HLUcw8UUfJ3AxQRMjuFiCrY5PWkhyrmAiyn4KUdpFeppcnrSIg6Ap1O4mIAVXIznFs/oaB6XOC5G84kznWhmS5wvRnOHDjAaI7MsLUUv5thlaS1ameyE56XVKKX1MjdpOTppv8ZNWo9G9td0SCtSSMdkBGlJ6vjqGosgLUob3SM6pFXpwja9SFqXKqyji6SFKWI/ngMXg3FNGJTWpgX3eEFpdUrwjLqUlqcC79hVaYEa8I8AllaYP7bXFcDFAFiT+qVFZs6ct8REWmbecFdGSOvMmYq9TUdaacYEbHY6OijsW82D4RfiwZFuzljJCxhHiTwsexloIhPLXkx7kcTDsocvDgbXKUwsfmF3Ag8/Ci/EJPO6C59Iu+Yz1sNp6dOR19SRJu4nRwpkGGkilhiseYjy8AuF2LCKMRHLXX44iSlEbHbZcNzfRCy92tK7cXEkR8pjikKMZ9nPwxUK0aRf44Ilqbv0aVywsLdFn8YFhdjmPbwQnfN6yyS4cXEN6y2V0MZlgULsILBx4SZHCmMc4iFnv0ORhJgYkBwpixu+h4uiL9g74TcuKEQ7M6aHMxSinUumiWUnR3zwGpdHFKKTIxRiPGcMD0uPMPlhRMWQHPFy6zURhejHl6Atfsc7C/e/uYtf8M7Eec49RnKEx5XDRCRHuNhf5YLkCJ87FGICLP8XG+GIGETnUxrJkUA6LkaPcME+mL2LV7hg34ddG93Db4CV4QqFmILL2/mEaDYW+KvyH3wtcdoOdabyAAAAAElFTkSuQmCC" alt="error" />
+                </div>
+                <div>
+                    <img className="auctionImg" src="https://media.istockphoto.com/id/497347644/photo/hand-pressing-register-now.jpg?s=612x612&w=0&k=20&c=XzXNw7_71cx23yPATWsSnYwGytZW-KU3eTpy3WCFQgw=" alt="error" />
+                    <h3>Registration</h3>
+                </div>
+                <div>
+                   <img className="arrowMark" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAACbCAMAAADC6XmEAAAAeFBMVEX///8AAABGRkYwMDAyMjK9vb309PTj4+NZWVn39/fr6+u2trZsbGzBwcHg4OAEBAQnJydycnITExPNzc0dHR2RkZGBgYGcnJympqYiIiJ4eHhCQkKsrKxKSkpfX1/Jyck7OzvX19d+fn6fn59UVFQQEBCKioplZWWw+oRaAAAEnklEQVR4nO2djVLqMBCFWVsFFUURf7kqKOr7v+GVihhKk2yazGyWnE/HkUHxeGapXXvYHQwOhuH984Souj6WFqKYsxf6ZXIuLUYrF2QyOpPWo5JdE79BOYYzbJtI9HIiLUodz/suEuGvTBg3XSZ+l+OptDBVvHW7SHQhrUwTc5uLNMbRkc2V1UX6QDlycbhIdI2jI4+Fy0WavErr08GX08XvcpQWqIIHj4s0vZGWqADL+aLJm7RGBfhdpBnK0YfvwNhwJ60yd845LtLVUlpn3pyxXCT6lBaaN+4zxj9ml9JKc+ae6SLRrbTUjLlku0g1ytEK30WUo527EBsXKMduXkNcJLqX1pspYS7SYigtOEtY7QvK0QOvfTE5QjnuwW1fTB6kRefHUQ8bn5FEacFvX1COdpa9XEQ5tnjsZyP9kxaeFdaEhI8VyvGPwPbFBDm9Laf9XURO748Xv1soRy/h7YvJCEmUhj7tiwliow3cqy82kNNb0699MUFOr3f7YjLG0XEwibeRkNPr3b6YFJ/Ti2hfDIqPjSZxkehJ+veQJap9MSg7pxfXvpiE5fTquqqqunn7ea+3N9YfNvc2nxpfVW9uVs397a+uNg9SG4/8e7Myb27vb6iNe82f/PtdVbWrz3jwzbfUVTIX6TGkHNP92IMjoBylpebMlB0blVaaN9xglLTOzKl55SgtM3tY5SgtMn84sVFpjRrwl6O0QhV4y1FaoBI8OT1peVqYO3N60ur08A4XU+AIRklLU4U1pyctTBdzSzlK69JGd05PWpU6OnN60qIU0lGO0pI0MtpLokgr0kk7pyetRymtnJ60HLUcw8UUfJ3AxQRMjuFiCrY5PWkhyrmAiyn4KUdpFeppcnrSIg6Ap1O4mIAVXIznFs/oaB6XOC5G84kznWhmS5wvRnOHDjAaI7MsLUUv5thlaS1ameyE56XVKKX1MjdpOTppv8ZNWo9G9td0SCtSSMdkBGlJ6vjqGosgLUob3SM6pFXpwja9SFqXKqyji6SFKWI/ngMXg3FNGJTWpgX3eEFpdUrwjLqUlqcC79hVaYEa8I8AllaYP7bXFcDFAFiT+qVFZs6ct8REWmbecFdGSOvMmYq9TUdaacYEbHY6OijsW82D4RfiwZFuzljJCxhHiTwsexloIhPLXkx7kcTDsocvDgbXKUwsfmF3Ag8/Ci/EJPO6C59Iu+Yz1sNp6dOR19SRJu4nRwpkGGkilhiseYjy8AuF2LCKMRHLXX44iSlEbHbZcNzfRCy92tK7cXEkR8pjikKMZ9nPwxUK0aRf44Ilqbv0aVywsLdFn8YFhdjmPbwQnfN6yyS4cXEN6y2V0MZlgULsILBx4SZHCmMc4iFnv0ORhJgYkBwpixu+h4uiL9g74TcuKEQ7M6aHMxSinUumiWUnR3zwGpdHFKKTIxRiPGcMD0uPMPlhRMWQHPFy6zURhejHl6Atfsc7C/e/uYtf8M7Eec49RnKEx5XDRCRHuNhf5YLkCJ87FGICLP8XG+GIGETnUxrJkUA6LkaPcME+mL2LV7hg34ddG93Db4CV4QqFmILL2/mEaDYW+KvyH3wtcdoOdabyAAAAAElFTkSuQmCC" alt="error" />
+                </div>
+                <div>
+                    <img  className="auctionImg" src="https://res.akamaized.net/domain/image/upload/t_web/c_fill,w_403,h_269/v1540507318/678957009SK010_SHD_George_S_hxkzdw.jpg" alt="error" />
+                    <h3>Auction Opening</h3>
+                </div>
+                <div>
+                   <img className="arrowMark" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAACbCAMAAADC6XmEAAAAeFBMVEX///8AAABGRkYwMDAyMjK9vb309PTj4+NZWVn39/fr6+u2trZsbGzBwcHg4OAEBAQnJydycnITExPNzc0dHR2RkZGBgYGcnJympqYiIiJ4eHhCQkKsrKxKSkpfX1/Jyck7OzvX19d+fn6fn59UVFQQEBCKioplZWWw+oRaAAAEnklEQVR4nO2djVLqMBCFWVsFFUURf7kqKOr7v+GVihhKk2yazGyWnE/HkUHxeGapXXvYHQwOhuH984Souj6WFqKYsxf6ZXIuLUYrF2QyOpPWo5JdE79BOYYzbJtI9HIiLUodz/suEuGvTBg3XSZ+l+OptDBVvHW7SHQhrUwTc5uLNMbRkc2V1UX6QDlycbhIdI2jI4+Fy0WavErr08GX08XvcpQWqIIHj4s0vZGWqADL+aLJm7RGBfhdpBnK0YfvwNhwJ60yd845LtLVUlpn3pyxXCT6lBaaN+4zxj9ml9JKc+ae6SLRrbTUjLlku0g1ytEK30WUo527EBsXKMduXkNcJLqX1pspYS7SYigtOEtY7QvK0QOvfTE5QjnuwW1fTB6kRefHUQ8bn5FEacFvX1COdpa9XEQ5tnjsZyP9kxaeFdaEhI8VyvGPwPbFBDm9Laf9XURO748Xv1soRy/h7YvJCEmUhj7tiwliow3cqy82kNNb0699MUFOr3f7YjLG0XEwibeRkNPr3b6YFJ/Ti2hfDIqPjSZxkehJ+veQJap9MSg7pxfXvpiE5fTquqqqunn7ea+3N9YfNvc2nxpfVW9uVs397a+uNg9SG4/8e7Myb27vb6iNe82f/PtdVbWrz3jwzbfUVTIX6TGkHNP92IMjoBylpebMlB0blVaaN9xglLTOzKl55SgtM3tY5SgtMn84sVFpjRrwl6O0QhV4y1FaoBI8OT1peVqYO3N60ur08A4XU+AIRklLU4U1pyctTBdzSzlK69JGd05PWpU6OnN60qIU0lGO0pI0MtpLokgr0kk7pyetRymtnJ60HLUcw8UUfJ3AxQRMjuFiCrY5PWkhyrmAiyn4KUdpFeppcnrSIg6Ap1O4mIAVXIznFs/oaB6XOC5G84kznWhmS5wvRnOHDjAaI7MsLUUv5thlaS1ameyE56XVKKX1MjdpOTppv8ZNWo9G9td0SCtSSMdkBGlJ6vjqGosgLUob3SM6pFXpwja9SFqXKqyji6SFKWI/ngMXg3FNGJTWpgX3eEFpdUrwjLqUlqcC79hVaYEa8I8AllaYP7bXFcDFAFiT+qVFZs6ct8REWmbecFdGSOvMmYq9TUdaacYEbHY6OijsW82D4RfiwZFuzljJCxhHiTwsexloIhPLXkx7kcTDsocvDgbXKUwsfmF3Ag8/Ci/EJPO6C59Iu+Yz1sNp6dOR19SRJu4nRwpkGGkilhiseYjy8AuF2LCKMRHLXX44iSlEbHbZcNzfRCy92tK7cXEkR8pjikKMZ9nPwxUK0aRf44Ilqbv0aVywsLdFn8YFhdjmPbwQnfN6yyS4cXEN6y2V0MZlgULsILBx4SZHCmMc4iFnv0ORhJgYkBwpixu+h4uiL9g74TcuKEQ7M6aHMxSinUumiWUnR3zwGpdHFKKTIxRiPGcMD0uPMPlhRMWQHPFy6zURhejHl6Atfsc7C/e/uYtf8M7Eec49RnKEx5XDRCRHuNhf5YLkCJ87FGICLP8XG+GIGETnUxrJkUA6LkaPcME+mL2LV7hg34ddG93Db4CV4QqFmILL2/mEaDYW+KvyH3wtcdoOdabyAAAAAElFTkSuQmCC" alt="error" />
+                </div>
+                <div>
+                    <img className="auctionImg" src="https://news.artnet.com/app/news-upload/2017/11/GettyImages-50947488-1024x687.jpg" alt="error" />
+                    <h3>Bidding Process</h3>
+                </div>
+                <div>
+                   <img className="arrowMark" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAACbCAMAAADC6XmEAAAAeFBMVEX///8AAABGRkYwMDAyMjK9vb309PTj4+NZWVn39/fr6+u2trZsbGzBwcHg4OAEBAQnJydycnITExPNzc0dHR2RkZGBgYGcnJympqYiIiJ4eHhCQkKsrKxKSkpfX1/Jyck7OzvX19d+fn6fn59UVFQQEBCKioplZWWw+oRaAAAEnklEQVR4nO2djVLqMBCFWVsFFUURf7kqKOr7v+GVihhKk2yazGyWnE/HkUHxeGapXXvYHQwOhuH984Souj6WFqKYsxf6ZXIuLUYrF2QyOpPWo5JdE79BOYYzbJtI9HIiLUodz/suEuGvTBg3XSZ+l+OptDBVvHW7SHQhrUwTc5uLNMbRkc2V1UX6QDlycbhIdI2jI4+Fy0WavErr08GX08XvcpQWqIIHj4s0vZGWqADL+aLJm7RGBfhdpBnK0YfvwNhwJ60yd845LtLVUlpn3pyxXCT6lBaaN+4zxj9ml9JKc+ae6SLRrbTUjLlku0g1ytEK30WUo527EBsXKMduXkNcJLqX1pspYS7SYigtOEtY7QvK0QOvfTE5QjnuwW1fTB6kRefHUQ8bn5FEacFvX1COdpa9XEQ5tnjsZyP9kxaeFdaEhI8VyvGPwPbFBDm9Laf9XURO748Xv1soRy/h7YvJCEmUhj7tiwliow3cqy82kNNb0699MUFOr3f7YjLG0XEwibeRkNPr3b6YFJ/Ti2hfDIqPjSZxkehJ+veQJap9MSg7pxfXvpiE5fTquqqqunn7ea+3N9YfNvc2nxpfVW9uVs397a+uNg9SG4/8e7Myb27vb6iNe82f/PtdVbWrz3jwzbfUVTIX6TGkHNP92IMjoBylpebMlB0blVaaN9xglLTOzKl55SgtM3tY5SgtMn84sVFpjRrwl6O0QhV4y1FaoBI8OT1peVqYO3N60ur08A4XU+AIRklLU4U1pyctTBdzSzlK69JGd05PWpU6OnN60qIU0lGO0pI0MtpLokgr0kk7pyetRymtnJ60HLUcw8UUfJ3AxQRMjuFiCrY5PWkhyrmAiyn4KUdpFeppcnrSIg6Ap1O4mIAVXIznFs/oaB6XOC5G84kznWhmS5wvRnOHDjAaI7MsLUUv5thlaS1ameyE56XVKKX1MjdpOTppv8ZNWo9G9td0SCtSSMdkBGlJ6vjqGosgLUob3SM6pFXpwja9SFqXKqyji6SFKWI/ngMXg3FNGJTWpgX3eEFpdUrwjLqUlqcC79hVaYEa8I8AllaYP7bXFcDFAFiT+qVFZs6ct8REWmbecFdGSOvMmYq9TUdaacYEbHY6OijsW82D4RfiwZFuzljJCxhHiTwsexloIhPLXkx7kcTDsocvDgbXKUwsfmF3Ag8/Ci/EJPO6C59Iu+Yz1sNp6dOR19SRJu4nRwpkGGkilhiseYjy8AuF2LCKMRHLXX44iSlEbHbZcNzfRCy92tK7cXEkR8pjikKMZ9nPwxUK0aRf44Ilqbv0aVywsLdFn8YFhdjmPbwQnfN6yyS4cXEN6y2V0MZlgULsILBx4SZHCmMc4iFnv0ORhJgYkBwpixu+h4uiL9g74TcuKEQ7M6aHMxSinUumiWUnR3zwGpdHFKKTIxRiPGcMD0uPMPlhRMWQHPFy6zURhejHl6Atfsc7C/e/uYtf8M7Eec49RnKEx5XDRCRHuNhf5YLkCJ87FGICLP8XG+GIGETnUxrJkUA6LkaPcME+mL2LV7hg34ddG93Db4CV4QqFmILL2/mEaDYW+KvyH3wtcdoOdabyAAAAAElFTkSuQmCC" alt="error" />
+                </div>
+                <div>
+                    <img className="auctionImg" src="https://www.homelight.com/blog/wp-content/uploads/2018/10/sellers-closing-statement.jpg" alt="error"/>
+                    <h3>Settlement</h3>
                 </div>
             </div>
 
