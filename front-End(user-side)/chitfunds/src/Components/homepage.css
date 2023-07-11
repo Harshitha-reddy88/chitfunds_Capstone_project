@@ -42,7 +42,7 @@
 }
 .bannerImg{
     width:1500px;
-    height: 500px;
+    height: 520px;
 }
 .piggyBank{
     width: 350px;
@@ -67,7 +67,7 @@
     opacity: 0.8;
     color:gray;
 }
-.button{
+.button1{
     padding: 10px 60px 10px 60px;
     background-color: #e6ccb2;
     margin-left: 980px;
@@ -96,7 +96,7 @@
   }
   .bankDiv{
     display: flex;
-    margin-top: 300px;
+    margin-top: 100px;
     background-color: #ede0d4;
   }
   .hands{
@@ -114,10 +114,9 @@
     margin-left: 175px;
     margin-top: 70px;
   }
-  /* .peopleDiv{
-    margin-left: 420px;
-    margin-top: 50px;
-  } */
+  .star{
+    width:50px;
+  }
   .Div{
     margin-left:80px;
   }
@@ -153,8 +152,115 @@
   }
   .auctionDiv{
     display: flex;
+    margin-left: 50px;
+  }
+  /* .prosses{
+    margin-right: 800px;
+  } */
+  .auctionMainDiv{
+    background-color: #ffdab9;
+    width: 1190px;
+    padding: 5px 0px 5px 0px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius:20px ;
+    margin-left: 165px;
+  }
+  .auctionMainDiv2{
+    background-color: #ffdab9;
+    width: 1190px;
+    padding: 5px 0px 5px 0px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius:20px ;
+    margin-left: 520px;
+    margin-top: 100px;
+  }
+  .auctionMainDiv3{
+    background-color: #ffdab9;
+    width: 1190px;
+    padding: 5px 0px 5px 0px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius:20px ;
+    margin-left: 165px;
+    margin-top: 100px;
+  }
+  .starDiv{
+    margin-top: 200px;
+    display: flex;
+    margin-left: 730px;
+  }
+  .starLine{
+    width: 200px;
+    height:2px;
+    background-color: gold;
+    margin-top: 20px;
+  }
+  .footer{
+    background-color: #b08968;
+  }
+  .footerDiv{
+    display: flex;
+  }
+  .aboutUs{
+    margin-left: 200px;
+    border: 2px solid red;
+  }
+  /* .agentChiti{
+    margin-left: 800px;
+    border: 2px solid red;
+  } */
+  .doublechiti{
+    margin-left: 100px;
+    border: 2px solid red;
+  }
+  .auctionChiti{
+    margin-left:270px;
+    border: 2px solid red;
+  }
+  .footer{
+    background-color:#e5e5e5;
+    display: flex;
+    margin-top: 100px;
+}
+.who{
+    margin-left: 200px;
+    margin-top:50px;
+}
+.womenFooter{
     margin-left: 150px;
-  }
-  .prosses{
-    margin-right: 1300px;
-  }
+    margin-top:50px;
+}
+.menFooter{
+    margin-left: 150px;
+    margin-top:50px;
+}
+.kidsFooter{
+    margin-left: 150px;
+    margin-top:50px;
+}
+.skintoneFooter{
+    margin-left: 150px;
+    margin-top:50px;
+}
+.footerimages{
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+}
+.footers{
+    display: flex;
+}
+.footergap{
+    margin-left: 50px;
+}
+.footergap1{
+    margin-left: 200px;
+}
+.followus{
+    margin-top: 130px;
+    margin-left: 190px;
+}
+.pinkcolor:hover{
+    color:deeppink
+}
+
+

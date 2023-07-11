@@ -1,4 +1,4 @@
-.detailsDiv{
+/* .detailsDiv{
     display: flex;
 }
 .firstDiv{
@@ -18,4 +18,24 @@
     margin-top: 30px;
 }
 
+ */
 
+.bank{
+        border: 1px solid red;
+ }
+#main{
+    border: 1px solid black;
+    height: 800px;
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+
+
+ }
+ .second{
+    border:2px solid black;
+    height: 400px;
+    width: 400px;
+
+ }

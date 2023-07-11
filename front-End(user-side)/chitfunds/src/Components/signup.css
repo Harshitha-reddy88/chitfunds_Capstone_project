@@ -1,3 +1,111 @@
-.margintop{
-    margin-top: 30px;
+/* .layout */
+/* {
+    width: 100%;
+    height: 100%;
+    background-image:url("../../public/signup.jpeg");
+    background-repeat: no-repeat;
+	/* background-attachment: fixed;   */
+    /* background-size: cover; */
+	/*background-size: cover;*/
+    
+/* } */
+.container{
+    /* background-image:url("../../public/image1.jpeg"); */
+    width: 500px;
+    border:2px solid deeppink;
+    border-radius: 50px;
+    margin-left: 650px;
+    margin-top: 50px;
+    padding:50px 0px 50px 50px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
+.heading{
+    margin-right: 210px;
+    /* margin-bottom: -1px; */
+    color:deeppink;
+}
+.heading1{
+    margin-right: 210px;
+    /* margin-bottom: -1px; */
+    color:deeppink;
+}
+.heading2{
+    margin-right: 220px;
+    color:deeppink;
+}
+.heading3{
+    margin-right: 160px;
+    color:deeppink;
+}
+.heading4{
+    margin-right: 265px;
+    color:deeppink;
+}
+.inputtag{
+    padding: 10px 60px 10px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.inputtag:hover{
+    /* padding:15px 65px 15px 65px; */
+    font-size: 21px;
+    border:2px solid deeppink;
+}
+.button{
+    padding:10px 50px 10px 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: -30px;
+    background-color: white;
+}
+.button:hover{
+    border:2px solid deeppink;
+    font-size: 20px;
+}
+.logo{
+    width: 100px;
+    border-radius: 200px;
+}
+.image{
+    width:200px;
+    border-radius: 500px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.image:hover{
+    width:205px;
+    
+}
+.google{
+    width:50px
+}
+.facebook{
+    width:50px
+}
+.mail{
+    width:35px
+}
+.twiter{
+    width:55px
+}
+.logoimages{
+    display:flex;
+}
+.googlediv{
+    margin-left: 100px;
+}
+.facebookdiv{
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.maildiv{
+    margin-top: 3px;
+    margin-left: 40px;
+}
+.twiterdiv{
+    margin-top:3px;
+    margin-left:40px;
+}
+
+
